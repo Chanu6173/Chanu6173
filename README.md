@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![An image of @chanu6173's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chanu6173)](https://holopin.io/@chanu6173)
 <!--
 **Chanu6173/Chanu6173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
