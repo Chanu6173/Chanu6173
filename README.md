@@ -1,7 +1,6 @@
 # 💫 About Me:
 ## Hi there👋 , I'm Chanu
 🔭 I’m a passionate Full-Stack Web Developer<br>🤝 I’m looking to collaborate on Open-source projects (Web Dev/ React / Cloud Infra / Scalable Backend )<br>🌱 I’m currently learning : Data Structures & Algorithms ,🚀 Advanced Full-Stack Web Development , 💬 Cloud fundamentals.
-[![An image of @chanu6173's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chanu6173)](https://holopin.io/@chanu6173)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaikhchanu) 
@@ -16,6 +15,8 @@
 
 
 ### 🔝 Top Contributed Repo
+[![An image of @chanu6173's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chanu6173)](https://holopin.io/@chanu6173)
+
 ![](https://github-contributor-stats.vercel.app/api?username=Chanu6173&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
