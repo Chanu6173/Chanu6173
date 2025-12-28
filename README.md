@@ -1,6 +1,6 @@
-## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on  <br>• Web Development projects using HTML, CSS, JavaScript  <br>• Building real-world apps and strengthening problem-solving skills  <br><br>👯 I’m looking to collaborate on  <br>• Open-source projects (Web Dev / Java / JavaScript / React)  <br>• Beginner–intermediate level projects where I can learn and contribute  <br><br>🤝 I’m looking for help with  <br>• Advanced JavaScript concepts  <br>• Backend Deployment & system design basics  <br>• Open-source contribution best practices  <br><br>🌱 I’m currently learning  <br>• Data Structures & Algorithms  <br>• Full-Stack Web Development  <br>• Cloud fundamentals  <br><br>💬 Ask me about  <br>• Java, SQL, DSA basics <br>• Web Development  <br>• Internship preparation & learning resources  <br><br>⚡ Fun fact  <br>• I enjoy turning ideas into projects and learning by building 🚀
+## Hi there👋 , I'm Chanu
+🔭 I’m a passionate BTech CS/IT student focused on Full-Stack Web Development <br>• Building real-world apps and strengthening problem-solving skills  <br><br>🤝 I’m looking to collaborate on  <br>• Open-source projects (Web Dev/ Backend/ React)  <br>• Beginner–intermediate level projects where I can learn and contribute  <br><br>🌱 I’m currently learning  <br>• Data Structures & Algorithms  <br>• Full-Stack Web Development  <br>• Cloud fundamentals  <br><br>💬 I enjoy turning ideas into projects and learning by building 🚀
 [![An image of @chanu6173's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chanu6173)](https://holopin.io/@chanu6173)
 
 ## 🌐 Socials:
